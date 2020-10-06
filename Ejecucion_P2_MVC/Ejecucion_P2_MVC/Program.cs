@@ -16,7 +16,7 @@ namespace Ejecucion_P2_MVC
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new CapaVista.Ventas());
+            Application.Run(new Form1());
         }
     }
 }

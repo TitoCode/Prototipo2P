@@ -11,3 +11,16 @@ C:\Users\CarlosAugusto\source\repos\CapaControlador\CapaVista\bin\Debug\CapaMode
 C:\Users\CarlosAugusto\source\repos\CapaControlador\CapaVista\bin\Debug\CapaModelo.pdb
 C:\Users\CarlosAugusto\source\repos\CapaControlador\CapaVista\obj\Debug\CapaVista.Ventas.resources
 C:\Users\CarlosAugusto\source\repos\CapaControlador\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\CarlosAugusto\Prototipo2P\CapaControlador\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\CarlosAugusto\Prototipo2P\CapaControlador\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\CarlosAugusto\Prototipo2P\CapaControlador\CapaVista\bin\Debug\P2_MVC.dll
+C:\Users\CarlosAugusto\Prototipo2P\CapaControlador\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\CarlosAugusto\Prototipo2P\CapaControlador\CapaVista\bin\Debug\P2_MVC.pdb
+C:\Users\CarlosAugusto\Prototipo2P\CapaControlador\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\CarlosAugusto\Prototipo2P\CapaControlador\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\CarlosAugusto\Prototipo2P\CapaControlador\CapaVista\obj\Debug\CapaVista.Ventas.resources
+C:\Users\CarlosAugusto\Prototipo2P\CapaControlador\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\CarlosAugusto\Prototipo2P\CapaControlador\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\CarlosAugusto\Prototipo2P\CapaControlador\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\CarlosAugusto\Prototipo2P\CapaControlador\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\CarlosAugusto\Prototipo2P\CapaControlador\CapaVista\obj\Debug\CapaVista.pdb
