@@ -1,0 +1,9 @@
+C:\Users\CarlosAugusto\source\repos\CapaControlador\P2_MVC\bin\Debug\P2_MVC.dll
+C:\Users\CarlosAugusto\source\repos\CapaControlador\P2_MVC\bin\Debug\P2_MVC.pdb
+C:\Users\CarlosAugusto\source\repos\CapaControlador\P2_MVC\bin\Debug\CapaModelo.dll
+C:\Users\CarlosAugusto\source\repos\CapaControlador\P2_MVC\bin\Debug\CapaModelo.pdb
+C:\Users\CarlosAugusto\source\repos\CapaControlador\P2_MVC\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+C:\Users\CarlosAugusto\source\repos\CapaControlador\P2_MVC\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\CarlosAugusto\source\repos\CapaControlador\P2_MVC\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\CarlosAugusto\source\repos\CapaControlador\P2_MVC\obj\Debug\P2_MVC.dll
+C:\Users\CarlosAugusto\source\repos\CapaControlador\P2_MVC\obj\Debug\P2_MVC.pdb
